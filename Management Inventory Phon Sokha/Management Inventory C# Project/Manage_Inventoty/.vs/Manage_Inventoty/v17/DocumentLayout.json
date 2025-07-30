@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|d:\\management inventory phon sokha\\management inventory c# project\\manage_inventoty\\manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|d:\\management inventory phon sokha\\management inventory c# project\\manage_inventoty\\manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Classes\\Data_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Classes\\Data_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Classes\\Data_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmproducts.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Classes\\Data_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCategory.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\oder_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Classes\\oder_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmDashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmOrder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmstock.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmOrder.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmDashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmstock.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmproducts.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCustomer.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmLogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmManagement.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmManagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmRegisterAccount.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:Manage_Inventoty\\Forms\\frmCustomer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRegisterAccount.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:55:15.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwI8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:44:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:40:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:42:27.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmManagement.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwGoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:42:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegisterAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:46:35.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:07.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:40:32.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Program.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Program.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Program.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:47:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:26:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmproducts.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:48:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data_customer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_customer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Classes\\Data_customer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_customer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Classes\\Data_customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:04:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAzwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:23:22.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Data_category.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_category.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Classes\\Data_category.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_category.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Classes\\Data_category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:02:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Data_order.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_order.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Classes\\Data_order.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_order.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Classes\\Data_order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:04:30.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmproducts.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:02:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Data_products.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_products.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Classes\\Data_products.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\Data_products.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Classes\\Data_products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:04:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmCategory.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAD4v4cBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmCategory.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:26:46.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmproducts.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.Designer.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAD4vy0CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmstock.cs [Design]",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmstock.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmstock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:37:00.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCustomer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:23:31.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "oder_item.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\oder_item.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Classes\\oder_item.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Classes\\oder_item.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Classes\\oder_item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:04:55.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmOrder.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmstock.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmstock.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmstock.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmOrder.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmDashboard.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmstock.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmstock.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmstock.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmproducts.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmCustomer.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmCategory.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmLogin.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmManagement.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmManagement.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmRegisterAccount.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmRegisterAccount.resx",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.resx",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.resx",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T17:43:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.Designer.cs",
+              "ToolTip": "D:\\Management Inventory Phon Sokha\\Management Inventory C# Project\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.Designer.cs",
+              "ViewState": "AgIAAIIAAADAiJmZmRkdwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:23:41.977Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

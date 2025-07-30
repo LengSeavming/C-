@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Manage_Inventoty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|d:\\manage_inventoty\\manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmorder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmorder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmregisteraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|D:\\Manage_Inventoty\\manage_inventoty\\forms\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0976B-C15D-4E04-9BFF-C16EC5A551B5}|Manage_Inventoty\\Manage_Inventoty.csproj|solutionrelative:manage_inventoty\\forms\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:54.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:51.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:12:32.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:50.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:33.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmstock.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmstock.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmstock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:14:02.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmproducts.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:56.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:11:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs [Design]*",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:13:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmproducts.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmproducts.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmproducts.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:10:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmManagement.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmManagement.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmManagement.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwI0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:12:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCategory.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:12:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.cs*",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.cs*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAywHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:13:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmstock.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmstock.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmstock.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmstock.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vyYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:14:04.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-09T11:15:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAewGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:12:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmOrder.Designer.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.Designer.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.Designer.cs*",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:25:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmOrder.resx",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.resx",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmOrder.resx",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmOrder.resx*",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmOrder.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-09T11:25:26.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmRegisterAccount.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxUAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:13:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmRegisterAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmRegisterAccount.cs [Design]",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmRegisterAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:13:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmCustomer.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:11:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmCategory.Designer.cs",
+              "DocumentMoniker": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "RelativeDocumentMoniker": "Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "ToolTip": "D:\\Manage_Inventoty\\Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "RelativeToolTip": "Manage_Inventoty\\Forms\\frmCategory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:08:02.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

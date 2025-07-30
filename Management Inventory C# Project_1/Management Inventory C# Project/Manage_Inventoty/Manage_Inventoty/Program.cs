@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Manage_Inventoty
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Forms.frmManagement());
+            //Application.Run(new Forms.frmLogin());
+            //Application.Run(new Forms.frmDashboard());
+            //Application.Run(new Forms.frmCategory());
+        }
+    }
+}

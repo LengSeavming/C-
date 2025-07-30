@@ -1,0 +1,208 @@
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe.config
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.pdb
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.AssemblyReference.cache
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmManagement.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Properties.Resources.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.GenerateResource.cache
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.CoreCompileInputs.cache
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.exe
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.pdb
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\bin\Debug\Guna.UI2.dll
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_I.04E8BC69.Up2Date
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmLogin.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmRegisterAccount.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCategory.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmproducts.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmstock.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmOrder.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCustomer.resources
+D:\C#_PROGRAMMING\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmDashboard.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe.config
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.pdb
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Guna.UI2.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\EnvDTE.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.exe.config
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCategory.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCustomer.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmDashboard.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmOrder.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmLogin.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmManagement.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmproducts.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmRegisterAccount.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmstock.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Properties.Resources.resources
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_I.04E8BC69.Up2Date
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.exe
+C:\Mac\Home\Desktop\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.pdb
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe.config
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.exe
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Manage_Inventoty.pdb
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Guna.UI2.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\EnvDTE.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\stdole.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.AssemblyReference.cache
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCategory.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmCustomer.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmDashboard.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmOrder.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmLogin.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmManagement.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmproducts.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmRegisterAccount.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Forms.frmstock.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.Properties.Resources.resources
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.GenerateResource.cache
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.csproj.CoreCompileInputs.cache
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_I.04E8BC69.Up2Date
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.exe
+D:\Management Inventory C# Project_1\Management Inventory C# Project\Manage_Inventoty\Manage_Inventoty\obj\Debug\Manage_Inventoty.pdb
